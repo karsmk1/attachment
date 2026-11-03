@@ -1,0 +1,69 @@
+.main {
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 0px 15px 15px 15px
+}
+
+p {
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+}
+
+.loveletter {
+    font-family: monospace;
+    font-size: 15px;
+    text-align: left;
+    padding-right: 35px;
+}
+
+.attachments {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 100%;
+}
+
+.baby {
+    margin: 0;
+    white-space: pre;
+    font-size: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.party {
+    margin: 0;
+    white-space: pre;
+    text-align: left;
+    font-size: 16px;
+    flex-shrink: 0;
+}
+
+.HBD {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.info {
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 0px 15px 15px 15px;
+    margin-top: 10px;
+}
+
+.information {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid white;
+    padding: 15px;
+}
+
+.left {
+    margin: 0;
+    text-align: left;
+}
+
+.right {
+    margin: 0;
+}
